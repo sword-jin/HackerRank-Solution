@@ -1,5 +1,7 @@
 <?php
 
+// test#11 1.02s
+
 $handle = fopen ("php://stdin","r");
 fscanf($handle,"%d",$n);
 
