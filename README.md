@@ -1,5 +1,5 @@
-# HackerRank-Algorithms
+# HackerRank-Solution
 
-HackerRank Algorithms solutions.
+HackerRank Solution solutions.
 
-[https://www.hackerrank.com/domains/algorithms](https://www.hackerrank.com/domains/algorithms)
+[https://www.hackerrank.com](https://www.hackerrank.com)
