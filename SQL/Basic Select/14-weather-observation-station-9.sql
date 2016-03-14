@@ -1,0 +1,3 @@
+# sql serve
+select DISTINCT CITY from STATION WHERE CITY RLIKE '[^AEIOUaeiou]%';
+select DISTINCT CITY from STATION WHERE CITY LIKE '[^AEIOU]%';

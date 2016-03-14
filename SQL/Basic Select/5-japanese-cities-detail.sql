@@ -1,0 +1,2 @@
+select * from CITY WHERE COUNTRYCODE = 'JPN'
+select * from CITY WHERE COUNTRYCODE = 'JPN';
