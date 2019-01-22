@@ -1,0 +1,1 @@
+sed -E 's/thy/{&}/gi'
